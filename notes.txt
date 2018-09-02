@@ -1,0 +1,22 @@
+
+https://towardsdatascience.com/r-cnn-fast-r-cnn-faster-r-cnn-yolo-object-detection-algorithms-36d53571365e
+
+https://arxiv.org/abs/1708.02002 - Focal Loss for Dense Object Detection
+
+
+https://www.kaggle.com/c/rsna-pneumonia-detection-challenge/discussion
+
+https://github.com/pydicom/pydicom
+- AP = Anterior/Posterior PA = Posterior/Anterior
+
+- https://www.kaggle.com/nikitpatel/anlysis-and-exploration-of-images/notebook
+
+- https://www.kaggle.com/kmader/lung-opacity-overview/notebook
+
+- https://www.kaggle.com/c/rsna-pneumonia-detection-challenge#evaluation
+
+- plotly
+
+- https://www.kaggle.com/c/rsna-pneumonia-detection-challenge/discussion
+
+https://www.kaggle.com/peterchang77/exploratory-data-analysis/notebook
