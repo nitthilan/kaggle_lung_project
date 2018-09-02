@@ -1,4 +1,13 @@
 
+freq used command:
+==================
+git push -u origin master
+
+Path to data folder: /mnt/additional/nitthilan/data/kaggle
+
+alias run_rsync='rsync -azP --progress --stats --exclude ".*/" --exclude ".*" --exclude "tmp/" /Users/kannappanjayakodinitthilan/Documents/myfolder/project_devan/aws_workspace/source/generators/kaggle_lung_project nitthilan@dana340-gpu.eecs.wsu.edu:/mnt/additional/nitthilan'
+run_rsync; fswatch -o /Users/kannappanjayakodinitthilan/Documents/myfolder/project_devan/aws_workspace/source/generators/kaggle_lung_project | while read f; do run_rsync; done
+
 https://towardsdatascience.com/r-cnn-fast-r-cnn-faster-r-cnn-yolo-object-detection-algorithms-36d53571365e
 
 https://arxiv.org/abs/1708.02002 - Focal Loss for Dense Object Detection
@@ -20,3 +29,9 @@ https://github.com/pydicom/pydicom
 - https://www.kaggle.com/c/rsna-pneumonia-detection-challenge/discussion
 
 https://www.kaggle.com/peterchang77/exploratory-data-analysis/notebook
+
+References:
+===========
+
+Git:
+- https://git-scm.com/docs/gitignore
